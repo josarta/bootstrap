@@ -1,0 +1,14 @@
+
+.br-1{
+    border: 1px solid rgb(80, 75, 75);
+}
+
+.tm-fijo{
+    height: 350px;
+    width: 1296px;
+}
+
+.tm-automatico{
+    max-width: inherit;
+    max-height: inherit;
+}
